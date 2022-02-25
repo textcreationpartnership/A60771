@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations humbly offered, against granting the sole trade to Guiny from Cape Blanco to Cape Lopez, to a company with a joint stock, exclusive of others</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1712</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60771</idno>
+            <idno type="STC">Wing S4485</idno>
+            <idno type="STC">ESTC N3484</idno>
+            <idno type="EEBO-CITATION">99834786</idno>
+            <idno type="PROQUEST">99834786</idno>
+            <idno type="VID">39323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2020:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations humbly offered, against granting the sole trade to Guiny from Cape Blanco to Cape Lopez, to a company with a joint stock, exclusive of others</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1712]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In support of the separate traders to Africa, and against the Royal African Company.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:39323:1"/>
+            <head>Some <hi>Conſiderations</hi> Humbly Offered, againſt Granting the Sole Trade to <hi>GUINY</hi> from Cape <hi>Blanc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to Cape <hi>Lopez,</hi> to a Company with a Joint Stock, excluſive of others.</head>
+            <p>A Company with a Joint Stock Excluſive, is a Monopoly; which has al<g ref="char:EOLhyphen"/>ways been eſteemed a great Grievance in matters of ſmall Moment, and will be much more ſo in a Trade of ſo large Extent, and ſuch vaſt Importance to this Nation, in the Export of its Woollen, and other Manufactures; and to the Plantations, in furniſhing them with Negroes, by whoſe Strength and Labour all their Commodities which come from thence, as Sugar, Indigo, Cot<g ref="char:EOLhyphen"/>ton, Ginger, Tobacco, <hi>&amp;c.</hi> are produced, and whereby the Navigation and Re<g ref="char:EOLhyphen"/>venue of this Kingdom is ſo greatly Increaſed.</p>
+            <p>And ſuch a Company ſo eſtabliſhed will have all the Miſchiefs of a Monopoly.</p>
+            <p n="1">I. They will buy the Woollen, and other Engliſh Manufactures, proper for <hi>Guiny,</hi> at their own Rates, having no Competitors, and will ſell all the Commo<g ref="char:EOLhyphen"/>dities they import from thence into <hi>England,</hi> at what Priſes they pleaſe.</p>
+            <p n="2">II. In ſuch C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe they alone can carry ſuch Negroes to the <hi>Weſt-Indies</hi> as are fit for the Engliſh Plantations, which are only to be purchaſed between Cape <hi>Blanco</hi> and Cape <hi>Lopez,</hi> and ſo will make their own Prizes for them, and impoſe what Terms they pleaſe on the Planters, as heretofore the <hi>African</hi> Company have done: and by buying Negroes dear, leſs of the <hi>Weſt-India</hi> Commodities have been, and will be produced, and at greater Charge; whereby other Nations have already had an Opportunity, and have too well made uſe of it, to Vye with us in thoſe Commodities; to the great Abatement of the Advantage of this Kingdom; and it may prove the Ruine of our Colonies: For if the Company have produced ſuch Miſchiefs by the Authority of a Charter only, What may be expected from them, if they ſhould be eſtabliſhed by a Law?</p>
+            <p n="3">III. Such a Company having no Competitors, will buy as Cheap, and ſell as Dear as they pleaſe; and ſo will get as much by One Thouſand Pounds, as would be good Profit to Private Perſons trading with Three times as much; and there<g ref="char:EOLhyphen"/>fore it is not their Intereſt to enlarge the Trade, but to get as much as they can by the ſmall Stock they employ; whereas many Buyers would Enhance the Price of Engliſh Manufactures at home, and occaſion a great Exportation of them, and lower the Price of Forreign Goods in <hi>England,</hi> and bring Negroes much cheaper to the Plantations, and thereby the Trade would greatly Increaſe.</p>
+            <div type="section">
+               <head type="sub">
+                  <hi>And though the Company now offer to content themſelves to be limited from Cape </hi>Blanco<hi> to Cape </hi>Lopez,<hi> and to leave out </hi>Angola,<hi> yet that does not at all help the matter, for theſe Reaſons:</hi>
+               </head>
+               <p n="1">1. It is humbly conceived, That all the Subjects of <hi>England</hi> have an Equal Right to all parts of the <hi>Guiny</hi> Trade.</p>
+               <p n="2">2. The Extent of the Coaſt between Cape <hi>Blanco</hi> and Cape <hi>Lopez,</hi> is about 3000 Miles, beſides up the Rivers in the Inland Country; and includes the whole Trade for Gold, Teeth, Dying Wood, and for ſuch Negroes as are fit for, and de<g ref="char:EOLhyphen"/>ſired at the Engliſh Plantations: For although there are Negroes to be had at <hi>An<g ref="char:EOLhyphen"/>gola,</hi> and ſuch as the <hi>Spaniards</hi> like, yet the <hi>Engliſh</hi> will not buy them, unleſs a few for their Houſe Service; they being a lazy ſort of Negro, and very rebellious: And the ſafety of the Plantations depends upon having Negroes from all parts of <hi>Guiny,</hi> who not underſtanding each others languages and Cuſtoms, do not, and can<g ref="char:EOLhyphen"/>not agree to Rebel, as they would do, and has by ſad Experience been found, when there are too many Negroes from one Country.</p>
+               <pb n="2" facs="tcp:39323:2" rendition="simple:additions"/>
+               <p n="3">3. This would exclude all the reſt of the Subjects of <hi>England</hi> from buying the Manufactures of this Kingdom proper for the <hi>Guiny</hi> Trade, very little of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Commodities being vended in <hi>Angola.</hi> For when a Ship is ſent thithe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, in a whole Cargo there is not above 2 <hi>P<hi rend="sup">•</hi>
+                  </hi> Bayes 1 <hi>C<hi rend="sup">t</hi>
+                  </hi> weight of Pewter, 1 piece of Cloath, a few Muſquets, ſome Anabaſſes, and about 5 <hi>l.</hi> value in Knives; all the reſt of the Cargo are either Commodities from the <hi>Eaſt-Indies,</hi> or Goods from <hi>Holland:</hi> Whereas in a Cargo for thoſe parts, from which the Company would have the reſt of their Fellow-Subjects excluded, there is ſent from 1500 to 2000 pieces of Perpetuanoes, 150, or 200 peices of Sayes, 6 or 700 Dozen of Knives, beſides great quantities of Gunpowder, Boyſadoes, Welſh Plains, and Pewter.</p>
+               <p>And if it ſhould be pretended, That the Company will furniſh the Plantations with what quantity of Negroes they deſire, and at ſuch Rates as ſhall be thought Rea<g ref="char:EOLhyphen"/>ſonable by the Parliament, or any other Perſons to be appointed from time to time, yet that would be no more than what they formerly engaged to do, when their Pa<g ref="char:EOLhyphen"/>tent was granted by King <hi>Charles</hi> the Second, and in a more eſpecial manner for the Iſland of <hi>Jamaica:</hi> But it's to be Obſerved, That whatever fair and ſpecious Pretences they made, they were far from performing them; and neither ſupplied the Plantations with the quantities of Negroes, nor at the prices they were obliged to do; nor <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould they hereafter comply any better with ſuch an Agreement, if it ſhould be made, for they know in caſe of their Nonperformance, the Planter would be no more able to Contend with their Joynt Stock now, then formerly, and the Governours of the Plantations, being the Companys Factors, the poor Planters muſt be content with their Treatment, whatever it be, becauſe the Remedy to ob<g ref="char:EOLhyphen"/>tain Redreſs, would be worſe then the Injury they ſuffer.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>As to the </hi>Forts<hi> and </hi>Caſtles<hi> whereby they pretend to have Recovered the Trade, and to have ſecured it to thoſe they call </hi>Interlopers.</head>
+               <p n="1">1. The Trade to <hi>Guinea</hi> was greateſt, when it was open, more Goods of the Growth and Manufacture of <hi>England</hi> were Exported for <hi>Guinea,</hi> and the Planta<g ref="char:EOLhyphen"/>tions Better and Cheaper furniſhed with Negroes, than ſince the Company have been ſetled.</p>
+               <p n="2">2. At all the Chief Places of Trade for Negroes, there is neither Fort nor Caſtle.</p>
+               <p n="3">3. Where there is any Fort or Caſtle, they cannot ſecure the Trade, or annoy any one that would diſturb it, out of the reach of their Guns.</p>
+               <p n="4">4. One or two Men of War would be a much better Security to the Trade than all their Forts and Caſtles.</p>
+               <p n="5">5. Although the chiefeſt Caſtle the Company have, belongs of right to the Na<g ref="char:EOLhyphen"/>tion, and not to the Company, being taken by Engliſh Men of War, with the loſs of the Blood of thoſe that did not belong to the Company; yet that, and all others, were they more conſiderable might be paid for, and with eaſe Maintained by a Regulated Company, with a ſmall Impoſition on the Trade out of <hi>England,</hi> and on the Negroes Imported into the Plantations.</p>
+               <p>And that there may no room be left to doubt hereof, there are perſons who will engage to Raiſe a ſufficient Fund to pay for their Forts, <hi>&amp;c.</hi> and to defray the fu<g ref="char:EOLhyphen"/>ture Charge of Maintaining them, and will receive their Reimburſement out of the Duties which may be appointed to be Raiſed on the Trade, as it ſhall come in. And therefore it is humbly hoped, the <hi>Guinea</hi> Trade will be ſetled in that manner; and the rather, conſidering the great Diſcouragement thoſe Merchants and Plan<g ref="char:EOLhyphen"/>ters have lain under by the Mortality in the <hi>Weſt Indies,</hi> and the Earthquake at <hi>Ja<g ref="char:EOLhyphen"/>maica,</hi> and the great Loſſes which they have ſuſtained in this War; and by the ſetling the <hi>Guinea</hi> Trade in a Regulated Company, Ingenuity and Induſtry would be Encouraged, that Trade would be Secured and Enlarged, more Gold and Goods from <hi>Guinea</hi> would be Imported into <hi>England,</hi> the Plantations would be better and cheaper ſupplyed with Negroes, whereby the Revenues of the Crown, and the Na<g ref="char:EOLhyphen"/>vigation of this Kingdom would be greatly increaſed, and all the Inconveniencies and Miſchiefs of a Monopoly would be avoided.</p>
+               <p>
+                  <hi>All which is Humbly Submitted to the Conſideration of the Honourable Houſe of Commons.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
